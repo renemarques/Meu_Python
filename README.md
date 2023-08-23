@@ -1,2 +1,3 @@
 # Meu_Python
- meus projetos em Python
+Primeiro projeto para repertorio feito em  Python
+ 
